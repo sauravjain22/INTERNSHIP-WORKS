@@ -1,0 +1,16 @@
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
