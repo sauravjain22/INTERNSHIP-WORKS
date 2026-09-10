@@ -52,7 +52,18 @@ The goal is to maintain a clear record of my **practical experience, continuous 
 
 ---
 
-## Author
+Internship Journey
+
+The numbered folders represent the order in which I completed each internship or project.
+
+```text
+01 → First project completed
+02 → Second project completed
+03 → Third project completed
+04 → Fourth project completed
+...
+
+Author
 
 **Saurabh Jain**
 
