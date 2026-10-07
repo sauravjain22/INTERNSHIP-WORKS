@@ -1,0 +1,29 @@
+BCG X GenAI Simulation – Financial Chatbot
+Test Results
+
+Test 1
+Query: What was Apple's revenue in 2025?
+Expected: Apple's revenue in 2025 was USD 416,161 million.
+Result: Passed
+
+Test 2
+Query: What was Microsoft's net income in 2025?
+Expected: Microsoft's net income in 2025 was USD 101,832 million.
+Result: Passed
+
+Test 3
+Query: What was Tesla's operating cash flow in 2025?
+Expected: Tesla's operating cash flow in 2025 was USD 14,747 million.
+Result: Passed
+
+Test 4
+Query: Which company had the highest revenue in 2025?
+Expected: Apple had the highest revenue in 2025, at USD 416,161 million.
+Result: Passed
+
+Test 5
+Query: How has Tesla's net income changed over the last year?
+Expected: Tesla's net income decreased from USD 7,091 million in 2024 to USD 3,794 million in 2025. This represents a change of -46.50%.
+Result: Passed
+
+Overall Result: 5/5 tests passed.
